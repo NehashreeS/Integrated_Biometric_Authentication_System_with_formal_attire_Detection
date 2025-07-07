@@ -77,7 +77,7 @@ This project combines biometric authentication using fingerprint recognition wit
 
 ## 👤 Author
 
-Jagath Charan
+Nehashree S
 
 ---
 
