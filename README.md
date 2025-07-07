@@ -75,12 +75,6 @@ This project combines biometric authentication using fingerprint recognition wit
 
 ---
 
-## 📸 Example Screenshots
-
-![UI Screenshot](chatbot.png)
-
----
-
 ## 👤 Author
 
 Jagath Charan
